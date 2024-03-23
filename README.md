@@ -61,8 +61,6 @@ if (checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION) == PackageMana
 
 4. Demo:
 
-<video controls width="500">
-    <source src="./images/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://github.com/vfa-tamhh/AndroidLocationPermission/assets/38197708/c34c2bbf-56e8-4751-95cb-58093c66c5da
+
 
